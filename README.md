@@ -1,2 +1,2 @@
 # The-Matrix
-Just random matrix codes
+Matrix Algebra programs that ease calculation-heavy mathematical algorithms.
